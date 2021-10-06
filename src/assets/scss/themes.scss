@@ -1,0 +1,12 @@
+//Import Bootstrap
+@import '../../../node_modules/bootstrap/scss/bootstrap.scss';
+
+//Import Icons
+@import './style.scss';
+
+//gradient
+.bg-gradient-gray {
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0) -9.97%, #ECF0F7 100%);
+}
+
+/* gradient */

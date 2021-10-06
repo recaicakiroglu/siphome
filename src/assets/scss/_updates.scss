@@ -1,0 +1,34 @@
+.bg-updates {
+  position: relative;
+  padding: 40px 0px 60px 0px;
+  overflow: hidden;
+
+}
+
+.bg-updates::before {
+  content: '';
+  z-index: -1;
+  position: absolute;
+  width: 50%;
+  height: 100%;
+  top: 0;
+  right: 0;
+  z-index: -1;
+  background: #1C57C9;
+  border-radius: 0px 0px 0px 150px;
+}
+
+
+.img-p1 {
+  margin-left: -6rem;
+}
+
+.img-p2 {
+  margin-left: 13rem;
+  margin-top: -15rem;
+}
+
+.img-p3 {
+  margin-left: -6rem;
+  margin-top: -15rem;
+}
